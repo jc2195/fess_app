@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620875347794",
+    "firebase_url": "https://fess-34d5a.firebaseio.com",
+    "project_id": "fess-34d5a",
+    "storage_bucket": "fess-34d5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620875347794:android:ded9afef1d7c6ba5eaec8b",
+        "android_client_info": {
+          "package_name": "com.jc2195.fess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620875347794-5m2ejodnd54r20noborehp9bpv6oqlo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjBcM1ui307lDvVXCks4fmNwTeVZ9ot4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620875347794-5m2ejodnd54r20noborehp9bpv6oqlo1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620875347794-j1olu7crlmsck3c7i67ut6behilgpgqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jc2195.fess"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
